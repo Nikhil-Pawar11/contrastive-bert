@@ -97,6 +97,13 @@ The contrastive learning approach significantly boosts similarity prediction per
 
 ---
 
+## 💡 Future improvements
+
+- Experiment with advanced augmentations (e.g., back-translation, adversarial edits).
+- Introduce projection heads (non-linear layers) on top of embeddings to further refine representation space.
+- Tune hyperparameters (temperature, learning rates) in more detail.
+- Evaluate on additional downstream tasks (clustering, classification) for full analysis.
+
 ---
 
 ## 🟢 Conclusion
